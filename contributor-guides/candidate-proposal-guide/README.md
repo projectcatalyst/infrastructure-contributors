@@ -8,15 +8,15 @@ The following is the information candidates should add to their proposal. An [ex
 
 
 
-### **Focus area**
+### Role
 
-Overview - Candidates are tasked with specifying their selected [focus area](../../contributor/focus-areas/) and then providing any extra information they want about the selected focus area or other focus areas they believe they will be helpful in contributing towards.
+Overview - Candidates are tasked with specifying their selected [role](../../contributor/roles/) and then providing any extra information they want about the selected role or other roles they believe they will be helpful in contributing towards.
 
 
 
-**My main focus area** - Required. Candidates should specify the [focus area](../../contributor/focus-areas/) and then also how they would add value.
+**My main role** - Required. Candidates should specify the [role](../../contributor/roles/) and then also how they would add value.
 
-**Focus areas I may also support** - Optional. Candidates can list out other focus areas, ordered by preference, that they would like to support with and information on how they intend to add value. Candidates should not feel that it is necessary to add any other focus areas and information if they would prefer to keep their full attention on their main focus area.
+**Roles I may also support** - Optional. Candidates can list out other roles, ordered by preference, that they would like to support with and information on how they intend to add value. Candidates should not feel that it is necessary to add any other roles and information if they would prefer to keep their full attention on their main role.
 
 ****
 
@@ -58,13 +58,13 @@ Overview - Candidates should provide some evidence to showcase their professiona
 
 ### **Contributions**
 
-Overview - Candidates can share information on any existing contributions they've made to the ecosystem under the [focus areas](../../contributor/focus-areas/) that would be relevant. This helps community advisors and voters become more aware of how familiar they are with the ecosystem and to what extent they've already been contributing.
+Overview - Candidates can share information on any existing contributions they've made to the ecosystem under the [roles](../../contributor/roles/) that would be relevant. This helps community advisors and voters become more aware of how familiar they are with the ecosystem and to what extent they've already been contributing.
 
 
 
 **Catalyst roles** - Optional. What roles have you helped with in Catalyst? Have you been a community advisor, veteran community advisor, voter or proposer?
 
-**Development, Coordination, Analysis, QA & Auditing, Marketing, Product, Design** - Optional. For any of the [focus areas](../../contributor/focus-areas/) candidates can add details on how they've contributed to the ecosystem with any supporting sources as evidence.
+**Development, Coordination, Analysis, QA & Auditing, Marketing, Product, Design** - Optional. For any of the [roles](../../contributor/roles/) candidates can add details on how they've contributed to the ecosystem with any supporting sources as evidence.
 
 
 
@@ -74,6 +74,6 @@ Overview - Candidates specify the budget they are requesting with reasoning behi
 
 
 
-**Budget requested -** Required. The dollar value requested by the candidate to complete a 6 month term. Please refer to the budget ranges in the latest [challenge setting proposal ](broken-reference)for guidance.
+**Budget requested -** Required. The dollar value requested by the candidate to complete a 6 month term. Please refer to the budget ranges in the latest proposal for guidance.
 
 **Budget reasoning** - Recommended. Reasoning on how that value was determined based off the candidates professional background and their contributions and knowledge of the ecosystem.
