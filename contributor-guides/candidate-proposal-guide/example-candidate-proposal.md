@@ -11,13 +11,13 @@ description: >-
 
 **My main role** - Development. I have worked as a developer over my career across different teams and companies. Through that experience I have taken user defined problems through to end solutions and have regularly helped taking problems from data modelling through to final implementation.&#x20;
 
-My developer background was in frontend development (Github provided below). I intend to spent most of my time supporting in this area and helping to turn user flows and designs into frontend implementations that support the ongoing development of the prioritised Cardano features.
+My developer background was was a backend developer (Github provided below). I intend to spend most of my time supporting in this area and helping to create tools and libraries across multiple languages that help with the ease of development in the Cardano ecosystem.
 
-As part of my role I would expect to be communicating with product contributors, community members and end users on a regular basis to pull together all the information and feedback needed to create the best experience possible for the community.
+As part of my role I would expect to be communicating with the developer ecosystem and DApp developers regularly to determine what areas in the ecosystem need improvement.
 
 **Roles I may also support**
 
-1. Product - I have worked in a number of startups which meant I was closely involved with taking problems through to implementation and have a sufficient level of experience of prioritising problems and helping support team decisions for making the right solutions.
+I intend to only focus on development as I both enjoy my time in this area the most and also the ecosystem is in need of a wider range of libraries and tools to build their DApps.
 
 
 
@@ -37,20 +37,20 @@ As part of my role I would expect to be communicating with product contributors,
 
 **Profile** - [https://www.linkedin.com/in/reidhoffman](https://www.linkedin.com/in/reidhoffman)
 
-**Additional information** - I have worked on bug fixes and supported development of React ([https://github.com/facebook/react](https://github.com/facebook/react)) you can find me contributions on my Github profile ([https://github.com/johnsmith](https://github.com/johnsmith)).
+**Additional information** - I have worked on bug fixes and supported development of Node JS ([https://github.com/nodejs/node](https://github.com/nodejs/node)) you can find me contributions on my Github profile ([https://github.com/johnsmith](https://github.com/johnsmith)).
 
 
 
 ### **Contributions**
 
-**Development** - I developed the contributors list available at [projectcatalyst.org](https://projectcatalyst.org) which was an initial attempt to help bring the community together and increase collaboration by letting people find others based on services or skills they can offer.&#x20;
+**Development** - I helped with the development of the [Blockfrost](https://blockfrost.io) API and helped make the Java and Scala SDK. The Blockfrost API helps other teams have easy access to onchain data for their own applications.
 
-**Coordination** - I have hosted over 5 after town hall sessions discussing issues surrounding Catalyst and looked for feedback on ways to resolve them, these conversations helped lead to changes and improvements to the Catalyst ecosystem. You can find some of those conversations on the Catalyst Swarm Youtube recordings.
+**Coordination** - I have hosted a number of meetings with project teams to discuss use cases for on-chain data and that helped to improve and guide future developments of tooling that makes it easier for applications to consume. You can find some of our recorded discussions on our YouTube - \[LINK HERE]
 
 ****
 
 ### **Budget**
 
-**Budget requested** - **** $50,000
+**Budget requested** - **** $55,000
 
-**Budget reasoning** - My background as a developer give me enough skills and experience to effectively perform in the focus area of development at a senior level. I have provided evidence of my history in the ecosystem and the development work I have bee involved with to support the evolution of the Catalyst ecosystem.
+**Budget reasoning** - My background as a developer and involvement in creating tools in the Cardano ecosystem shows I am able to effectively contribute to the Cardano ecosystem. I have provided evidence of my history in the ecosystem and the development work I have bee involved with that supported the evolution of the Cardano ecosystem.
