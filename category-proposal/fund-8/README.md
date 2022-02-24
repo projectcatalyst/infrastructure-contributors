@@ -49,6 +49,13 @@ It details the tradeoffs of funding types, the decision to use duration and sala
 
 
 
+**What roles can I apply for?**
+
+* **Roles** - Cardano Development, Cardano Coordination, Stake Pool Development, Stake Pool Coordination and Analysis
+* **Role details** - [https://catalyst-swarm.gitbook.io/cardano-contributors/contributor/roles](https://catalyst-swarm.gitbook.io/cardano-contributors/contributor/roles)
+
+
+
 **Cardano contributors candidate - What should be included in the proposal?**
 
 A guide for Cardano contributor candidate proposals can be found here - [https://catalyst-swarm.gitbook.io/cardano-contributors/contributor-guides/candidate-proposal-guide](https://catalyst-swarm.gitbook.io/cardano-contributors/contributor-guides/candidate-proposal-guide)
