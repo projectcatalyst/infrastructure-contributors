@@ -102,8 +102,8 @@ Minimum thresholds have been added to make sure there is enough skills across th
 
 **What candidates may be less suitable?**
 
-* Idea focussed - You have a great idea and want to work on it full time. This candidate is less suitable as contributors should not be tied to a single idea. Instead contributors are a collaborative force that helps pull ideas and teams together. This person can make a proposal for their idea if that's where they want to focus their time where the contributors league could help them instead!
-* Wanting full autonomy and independence - Candidates will need to communicate and collaborate with many community members, ideas and projects regularly. If a candidate wants full autonomy and independence to solve problems then they are more suited to idea focussed proposals rather than joining the contributors league.
+* Idea focussed - You have a great idea and want to work on it full time. This candidate is less suitable as contributors should not be tied to a single idea. Instead contributors are a collaborative force that helps pull ideas and teams together. This person can make a proposal for their idea if that's where they want to focus their time where contributors could help them instead!
+* Wanting full autonomy and independence - Candidates will need to communicate and collaborate with many community members, ideas and projects regularly. If a candidate wants full autonomy and independence to solve problems then they are more suited to idea focussed proposals rather than joining as a full time contributor.
 
 
 
@@ -122,5 +122,5 @@ Community advisors should use the following guide when assessing a Cardano contr
 
 **Future ideas to consider with this category**
 
-* Reputation building - The contributors league could become a vital part of the Cardano ecosystem where the community could issue credentials or vote on members of the workers league for helping in certain areas. Some examples could be for high impact help in areas such as development, coordination, design or planning.
-* Bonuses - The most impactful contributors league members could be voted for in a governance process and be given a bonus reward for the impact of their contributions. This could make being a contributor very lucrative and align financial incentives well towards those that make large effort contributions that positively benefit the ecosystem.
+* Reputation building - Full time contributors could become a vital part of the Cardano ecosystem where the community could issue credentials or vote on people to help work with them in certain areas. Some examples could be for high impact help in areas such as development, coordination, design or planning.
+* Bonuses - The most impactful contributors could be voted for in a governance process and be given a bonus reward for the impact of their contributions. This could make being a contributor very lucrative and align financial incentives well towards those that make large effort contributions that positively benefit the ecosystem.
