@@ -14,7 +14,7 @@ What full time contributors can be funded to help support and improve the Cardan
 
 **Why is it important?**
 
-Cardano needs more full time contributors to help improve the development ecosystem in Cardano and reduce the effort needed to run a stake pool
+Cardano needs full time contributors to help improve the development ecosystem in Cardano and stake pool ecosystem
 
 **How does success look like?**
 
