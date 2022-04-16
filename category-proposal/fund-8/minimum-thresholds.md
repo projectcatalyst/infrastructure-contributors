@@ -1,18 +1,26 @@
 # Minimum Thresholds
 
-**\[To be determined]**
+The budget allocation is $900,000 which means funding capacity to support between 16 to 36 contributors based on the lower ($25,000) and upper ($55,000) [budget range guidelines](budget-ranges.md). &#x20;
+
+Due to the higher number of developers we would estimate an average of $45,000 per contributor which would mean around 20 contributors would get funded.
+
+After the thresholds are met based on the voting results the highest voted candidates would then be selected until the funding is allocated.
 
 ### Minimum thresholds (number of people)
 
+****
 
+**Stake Pool Development**: 4
 
-**Development**: TBC
+**Stake Pool Analysis**: 2
 
-**Coordination**: TBC
+**Cardano Development**: 9
 
-**Analysis**: TBC
+**Cardano Analysis**: 3
 
-**Total**: TBC
+**Coordination:** 2
+
+**Total**: 20
 
 
 
