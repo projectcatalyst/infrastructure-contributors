@@ -28,6 +28,6 @@ After the thresholds are met based on the voting results the highest voted candi
 
 **Development**: High - The ecosystem has an increasing amount of complex core functionality required which warrants the need for a large number of developers.
 
-**Coordination**: High - A large number of ecosystem projects and proposals are introduced each funding round that require coordination and support. Online meetings are an important way for the community to connect.
+**Coordination**: Low - Only a small people are needed to help bring together different ecosystem efforts to create meetings and events to share learnings across different tools and resources.
 
-**Analysis**: Low - Some analysis is needed on the ecosystem and proposals to give a good overview of issues and solutions available in the ecosystem. Analysis is not needed at all times in every part of the ecosystem.
+**Analysis**: Moderate - A moderate amount of regular analysis is needed on the ecosystem and proposals to give a good overview of issues and solutions available in the ecosystem. Analysis is not needed at all times in every part of the ecosystem.
