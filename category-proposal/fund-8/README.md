@@ -46,7 +46,7 @@ To read the full background, analysis and current documentation for Cardano Cont
 
 There is a benefit to consider other funding models rather than idea based funding. Strong ecosystems are built on good ideas that are well executed however the ecosystem also relies on impactful community contributors. The future of Catalyst funding could include funding community contributors as well as just ideas.
 
-The [analysis](../../background/overview.md) behind how this category brief was constructed can be found here - [https://catalyst-swarm.gitbook.io/catalyst-contributors/analysis/contributor-structure](https://catalyst-swarm.gitbook.io/catalyst-contributors/analysis/contributor-structure)
+The [analysis](broken-reference) behind how this category brief was constructed can be found here - [https://catalyst-swarm.gitbook.io/catalyst-contributors/analysis/contributor-structure](https://catalyst-swarm.gitbook.io/catalyst-contributors/analysis/contributor-structure)
 
 It details the tradeoffs of funding types, the decision to use duration and salary caps and how the category total requested budget was decided.
 

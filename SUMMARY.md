@@ -25,6 +25,6 @@
   * [Budget Ranges](category-proposal/fund-8/budget-ranges.md)
   * [Minimum Thresholds](category-proposal/fund-8/minimum-thresholds.md)
 
-## Background
+***
 
-* [Overview](background/overview.md)
+* [Contributor Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/gdWEUdtxBpngJ9kJPPlB/)
