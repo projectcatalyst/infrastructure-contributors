@@ -25,7 +25,7 @@
   * [Budget Ranges (Fund 9)](category-proposal/fund-9/budget-ranges-fund-9.md)
   * [Minimum Thresholds](category-proposal/fund-9/minimum-thresholds.md)
 * [Fund 8](category-proposal/fund-8/README.md)
-  * [Budget Ranges (Fund 8)](category-proposal/fund-8/budget-ranges-fund-8.md)
+  * [Budget Ranges (Fund 8)](category-proposal/fund-8/budget-ranges.md)
   * [Minimum Thresholds](category-proposal/fund-8/minimum-thresholds.md)
 
 ## 🔗 Links

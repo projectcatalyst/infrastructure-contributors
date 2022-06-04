@@ -20,57 +20,38 @@ The following are the initial roles for contributors to select from.
 
 ****
 
-### Stake Pool Development
+### Development
 
-**Objective** - Helping to develop the scripts, libraries and tools that will help make it easier to run and operate a Cardano stake pool.
-
-**Tasks**
-
-* Interact with community stake pool operators to determine what problems exist
-* Develop and maintain scripts, tools and libraries that help running a stake pool
-* Support the improvement and promotion of security best practices
-* Maintain and improve technical documentation and community resources
-* Host technical discussion meetings about stake pool nodes to provide education and updates on ecosystem changes
-* Provide technical support to stake pool operators
-
-****
-
-### Stake Pool Coordination
-
-**Objective** - Bring together the stake pool community to identify problems and areas where more resources and support is needed.
+**Objective** - To support, develop and align the community on the creation and maintenance of scripts, libraries and tools that improve the developer ecosystem and stake pool node operation for Cardano.
 
 **Tasks**
 
-* Aggregate documentation and resources that make it easy for new stake pool operators
-* Aggregate resources for layer two nodes and opportunities that existing stake pool operators can consider
-* Host meetings with stake pool operators to discuss problems and reach consensus on future development plans steps forward
-
-
-
-### Cardano Development
-
-**Objective** - Support the development and alignment of open source projects across the Cardano ecosystem that developers can use to build on top of Cardano.
-
-**Tasks**
-
-* Create and maintain libraries, frameworks and utility code that help developers more easily build on Cardano
+* Create and maintain scripts, tools, libraries, frameworks and utility code that help developers and node operators more easily build or operate infrastructure on Cardano
+* Interact with community developers and stake pool operators to determine what problems exist
+* Support the improvement and promotion of security best practices in the development ecosystem and for node operation&#x20;
 * Support existing open source projects with technical expertise and guidance
 * Collaborate with teams to bring alignment in the ecosystem and prevent duplicated efforts where possible
-* Host technical discussion meetings on Cardano development and security best practices
-* Provide technical feedback where necessary to technical proposals in the Catalyst process
 * Help create, improve and promote good security standards and design patterns for projects to consider when developing on Cardano
+* Maintain and improve technical documentation and community resources
+* Host technical discussion meetings about the developer ecosystem and stake pool node operation to provide education and updates on ecosystem changes
+* Provide technical support to developers and stake pool operators
+* Provide technical feedback where necessary to technical proposals in the Catalyst process
 
 
 
-### **Cardano Coordination**
+### Coordination
 
-**Objective** - Maximise the collaboration in the Cardano developer ecosystem to bring more alignment and make the ecosystem more accessible to a wider amount of developers.
+**Objective** - Maximise the coordination and collaboration in the Cardano developer ecosystem and between stake pool node operators to encourage more alignment and collaboration whilst also helping to find problems, support the community and grow the ecosystem.&#x20;
+
+
 
 **Tasks**
 
+* Aggregate documentation and resources that make it easy for new developers joining the ecosystem or new stake pool operators
 * Support and promote open source tools, libraries and SDKs that the ecosystem can use
 * Help teams collaborate and reduce duplicated efforts on similar open source tools, libraries or SDKs
-* Host events to bring together the community to provide support and conduct problem sensing
+* Aggregate resources for layer two infrastructure such as sidechains to highlight opportunities for existing stake pool operators to consider
+* Host events to bring together the development and stake pool communities to provide support and conduct problem sensing
 * Promote best practices and standards within the community
 * Manage an ecosystem calendar for events and community meet ups that help community members more easily find support or meet others in the ecosystem&#x20;
 * Support improvements of translations for open source project documentation

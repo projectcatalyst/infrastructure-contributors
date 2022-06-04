@@ -1,6 +1,6 @@
 # Minimum Thresholds
 
-The budget allocation is $900,000 which means funding capacity to support between 16 to 36 contributors based on the lower ($25,000) and upper ($55,000) [budget range guidelines](budget-ranges-fund-8.md). &#x20;
+The budget allocation is $900,000 which means funding capacity to support between 16 to 36 contributors based on the lower ($25,000) and upper ($55,000) [budget range guidelines](budget-ranges.md). &#x20;
 
 Due to the higher number of developers we would estimate an average of $45,000 per contributor which would mean around 20 contributors would get funded.
 
