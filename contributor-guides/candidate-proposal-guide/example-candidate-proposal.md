@@ -43,7 +43,7 @@ I intend to only focus on development as I both enjoy my time in this area the m
 
 ### **Contributions**
 
-**Development** - I helped with the development of the [Blockfrost](https://blockfrost.io) API and helped make the Java and Scala SDK. The Blockfrost API helps other teams have easy access to onchain data for their own applications.
+**Development** - I helped with the development of the [Blockfrost](https://blockfrost.io/) API and helped make the Java and Scala SDK. The Blockfrost API helps other teams have easy access to onchain data for their own applications.
 
 **Coordination** - I have hosted a number of meetings with project teams to discuss use cases for on-chain data and that helped to improve and guide future developments of tooling that makes it easier for applications to consume. You can find some of our recorded discussions on our YouTube - \[LINK HERE]
 
