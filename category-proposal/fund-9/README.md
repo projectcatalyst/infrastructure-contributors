@@ -67,13 +67,19 @@ A guide for Cardano contributor candidate proposals can be found here - [https:/
 
 **Cardano contributors budget guidelines - What budget should a contributor request?**
 
-Guidance for Cardano contributors for setting their budget has been researched. Candidates are not forced to follow this guidance however the guidance can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-9/budget-ranges](budget-ranges-fund-9.md)
+Budget range guidance for Cardano contributors were defined using research on the average salaries for different roles. Candidates are not forced to follow the guidance provided. The suggested budget ranges for Cardano contributors can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-9/budget-ranges](budget-ranges-fund-9.md)
 
 
 
 **Cardano contributors minimum thresholds - Is there a minimum number of contributors for each role?**
 
-Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed most. The minimum thresholds for fund 8 can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-9/minimum-thresholds](minimum-thresholds.md)
+Minimum thresholds have been added to make sure the right amount of each skill set is selected in each cohort of contributors. The minimum thresholds for this fund can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-9/minimum-thresholds](minimum-thresholds.md)
+
+
+
+**Catalyst contributors minimum thresholds - Is there a minimum number of contributors for each role?**
+
+Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed. The minimum thresholds for this fund can be found here - [https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-9/minimum-thresholds](https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-9/minimum-thresholds)
 
 
 
