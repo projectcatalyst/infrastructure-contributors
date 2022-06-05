@@ -1,7 +1,7 @@
 ---
 description: >-
   Details around responsibilities whilst being a full time contributor with a
-  shared tasks breakdown and an overview of the usage of focus areas
+  breakdown of the shared tasks and the usage of roles
 ---
 
 # Responsibilities
