@@ -111,8 +111,8 @@ Minimum thresholds have been added to make sure there is enough skills across th
 
 **What candidates may be less suitable?**
 
-* Idea focussed - You have a great idea and want to work on it full time. This candidate is less suitable as contributors should not be tied to a single idea. Instead contributors are a collaborative force that helps pull ideas and teams together. This person can make a proposal for their idea if that's where they want to focus their time where contributors could help them instead!
-* Wanting full autonomy and independence - Candidates will need to communicate and collaborate with many community members, ideas and projects regularly. If a candidate wants full autonomy and independence to solve problems then they are more suited to idea focussed proposals rather than joining as a full time contributor.
+* Idea focussed - You have a great idea and want to work on it full time. This candidate is less suitable to become a contributor as contributors should not be tied to a single idea. Instead contributors are a collaborative force that helps pull ideas and teams together. This person can make a proposal for their idea if that's where they want to focus their time.
+* Wants full autonomy and independence - Candidates will need to regularly communicate and collaborate with many community members, ideas and projects regularly. If a candidate wants full autonomy and independence to solve problems then they are likely better suited to idea focussed proposals rather than becoming a Cardano contributor.
 
 
 
@@ -129,7 +129,6 @@ Community advisors should use the following guide when assessing a Cardano contr
 
 
 
-**Future ideas to consider with this category**
+**Future improvements for full time contributors**
 
-* Reputation building - Full time contributors could become a vital part of the Cardano ecosystem where the community could issue credentials or vote on people to help work with them in certain areas. Some examples could be for high impact help in areas such as development, coordination, design or planning.
-* Bonuses - The most impactful contributors could be voted for in a governance process and be given a bonus reward for the impact of their contributions. This could make being a contributor very lucrative and align financial incentives well towards those that make large effort contributions that positively benefit the ecosystem.
+There are a number of improvements that can be integrated into the model of full time contributors that help support different areas of the ecosystem. A list of ideas can be found here - [https://docs.catalystcontributors.org/contributor-analysis/contributor-analysis/contributor-future-improvements](https://docs.catalystcontributors.org/contributor-analysis/contributor-analysis/contributor-future-improvements)
