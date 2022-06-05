@@ -30,13 +30,13 @@ Tracking success for this category will mean:
 * Community support - Conversations with existing development projects and community members and any contributions that help support them\
 
 
-Part of tracking success for contributors will include improving the reporting and understanding of what a given contributor has worked on to support the ecosystem whilst they have been funded. Reporting will be a requirement for contributors however the tools that are used to log and present that data will evolve over time so that the community can easily track what is happening within the contributor community.
+Tracking success for contributors will include improving the reporting process so it becomes easy for the community to understand what each contributor is working on to support the ecosystem. Progress reporting is a requirement for contributors. The tools that are used to log and present this reporting data will need to evolve over time so that the community can easily track what is happening within the contributor community.
 
 
 
 ### **Category brief**
 
-Cardano Contributors is a community voted group of full time contributors in the Cardano ecosystem that are funded to help support and drive the ecosystem forward. Contributor roles within the Cardano ecosystem currently include developers, coordinators and analysts that focus on the development ecosystem and stake poo operation. The contributors can be seen as a glue that helps bring the Cardano ecosystem together and maximise collaboration and outcomes within the community.
+Cardano Contributors is a group of community members voted on by the community to help support and drive the Cardano ecosystem forward. Contributor roles within the Cardano ecosystem currently include developers, coordinators and analysts that focus on the improvement of the development ecosystem and ease of stake pool operation. The contributors can be seen as a glue that helps bring the Cardano ecosystem together and maximise collaboration and outcomes within the community.
 
 
 
@@ -46,11 +46,9 @@ To read the full background, analysis and current documentation for Cardano Cont
 
 **Why is this category needed?**
 
-There is a benefit to consider other funding models rather than idea based funding. Strong ecosystems are built on good ideas that are well executed however the ecosystem also relies on impactful community contributors. The future of Catalyst funding could include funding community contributors as well as just ideas.
+There is a benefit to consider other funding models rather than idea based funding. Strong ecosystems are built on good ideas that are well executed. However the ecosystem also relies on impactful community contributors. The future of funding through Catalyst benefits from both funding ideas and full time contributors.
 
-The analysis behind how this category brief was constructed can be found here - [https://docs.catalystcontributors.org/contributor-analysis/contributor-analysis](https://docs.catalystcontributors.org/contributor-analysis/contributor-analysis/contributor-structure)
-
-It details the tradeoffs of funding types, the decision to use duration and salary caps and how the category total requested budget was decided.
+The analysis behind how this contributor focussed category was created can be found here - [https://docs.catalystcontributors.org/contributor-analysis/](https://docs.catalystcontributors.org/contributor-analysis/)
 
 
 
