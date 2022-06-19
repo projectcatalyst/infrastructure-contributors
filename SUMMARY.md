@@ -15,6 +15,10 @@
   * [Example Candidate Proposal](contributor-guides/candidate-proposal-guide/example-candidate-proposal.md)
 * [Candidate Assessment Guide](contributor-guides/candidate-assessment-guide.md)
 
+## Ownership & Authority
+
+* [Ownership & Authority Plan](ownership-and-authority/ownership-and-authority-plan.md)
+
 ## Treasury
 
 * [Cardano Contributor Treasury](treasury/cardano-contributor-treasury.md)
