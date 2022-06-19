@@ -18,4 +18,5 @@ The main areas for Cardano contributors to support include the developer ecosyst
 
 * [**Contributor**](broken-reference) - Find out about what would be expected from a Cardano contributor.
 * ****[**Contributor Guides**](broken-reference) - Guides on how to create a proposal as a contributor candidate and also how to assess candidate proposals.
+* [**Ownership & Authority**](broken-reference) - Exploring a plan for how Cardano contributors can be an effective solution for passing ownership and authority over to the community for certain areas of the ecosystem.
 * ****[**Treasury**](broken-reference) - Details of how full time contributors would manage a Cardano contributor treasury that would be used for rapid funding that supports the ecosystem.
