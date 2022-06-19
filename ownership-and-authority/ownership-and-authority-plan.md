@@ -1,6 +1,6 @@
 # Ownership & Authority Plan
 
-There are a number of different ways in which ownership and authority can be passed over to the community. Analysis on this topic area highlighted how a cohort of individuals would be a simple and effective model to achieve this.
+There are a number of different ways in which ownership and authority can be passed over to the community. [Analysis on this topic](https://docs.catalystcontributors.org/contributor-analysis/governance-ownership-and-authority/individuals-vs-political-parties-vs-organisations) area highlighted how a cohort of individuals would be a simple and effective model to achieve this.
 
 
 
