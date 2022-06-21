@@ -1,30 +1,36 @@
-# Ownership & Authority Plan
+---
+description: >-
+  Plan for how stewardship and delegated authority of the Cardano ecosystem can
+  be passed over to the community
+---
 
-There are a number of different ways in which ownership and authority can be passed over to the community. [Analysis on this topic](https://docs.catalystcontributors.org/contributor-analysis/governance-ownership-and-authority/individuals-vs-political-parties-vs-organisations) area highlighted how a cohort of individuals would be a simple and effective model to achieve this.
+# Stewardship & Delegated Authority Plan
+
+There are a number of different ways in which stewardship can be passed over to the community. [Analysis on this topic](https://docs.catalystcontributors.org/contributor-analysis/stewardship-and-delegated-authority/individuals-vs-political-parties-vs-organisations) area highlighted how electing a cohort of individuals who would receive stewardship and delegated authority would be a simple and effective model to achieve this.
 
 
 
-Electing a number of individuals offers a simple approach to passing over ownership and authority to the community. The model can contract and expand as required to support and improve the Cardano ecosystem.
+Electing a number of individuals offers a simple approach for community stewardship and delegation of authority. The model can contract and expand as required to support and improve the Catalyst ecosystem.
 
 
 
-A safe and incremental plan is needed to outline how the ownership and authority can be passed over to Cardano contributors with a rough plan of which systems and processes are involved. These suggestions are not fixed and are merely ideas for how ownership and authority can be incrementally passed over to the community.
+A safe and incremental plan is needed to outline how the stewardship of the systems and processes can be handled by Cardano contributors with a rough plan of which systems and processes are involved. These suggestions are not fixed and are merely ideas for how stewardship and authority can be incrementally delegated to Cardano contributors and the community.
 
 
 
 ### Scope
 
-Cardano contributors would not receive any ownership and authority of important Cardano parameters or processes. IOG already have a large established development team that is working on passing over ownership and authority of core parameters and processes directly to the community.
+Cardano contributors would not receive any stewardship and authority of important Cardano parameters or processes. IOG already have a large established development team that is working on passing over stewardship and authority of core parameters and processes directly to the community.
 
 
 
-Instead the scope of Cardano contributors in regards to ownership and authority is to focus on being a functional group of community members that help to support the community and contribute towards the improvement of the Cardano developer ecosystem and any improvements to running a stake pool node. Full time contributors are also suited to becoming a supportive structure for the communication channels used in the ecosystem as well as moderation of the CIP process by helping improve the suggestions made, increase collaboration between teams and moderate content from actors with malicious intent.
+Instead the scope of Cardano contributors in regards to stewardship and authority is to focus on bringing together a functional group of community members that can help to support the community and contribute towards the improvement of the Cardano developer ecosystem and any improvements to operating a stake pool node. Full time contributors are also suited to becoming a supportive structure for the communication channels used in the ecosystem as well as moderation of the CIP process by helping improve the suggestions made, increase collaboration between teams and moderate content from actors with malicious intent.
 
 
 
 Over the long term and as the developer ecosystem and stake pool node operation infrastructure matures the role of Cardano contributors would reduce. Exploration would continue on the benefits of having either full time or part time contributors for the Cardano ecosystem that help with collaboration, moderation, oversight and support of processes and systems within the ecosystem that help it effectively function.
 
-![](../.gitbook/assets/cardano-ownership-and-authority-plan.png)
+![](../.gitbook/assets/cardano-stewardship-and-authority-plan.png)
 
 ## Short term
 
@@ -36,11 +42,11 @@ Support, organise and learn
 
 
 
-**How is ownership and authority changing?**
+**How is stewardship and authority changing?**
 
 * Input Output Global - IOG retains all ownership and authority over changes to the Cardano blockchain as it does currently and continues to respond to CIP process suggestions from the community.
 * Cardano Contributors - Cardano contributors begin to support the Cardano ecosystem in areas around documentation, education, events, moderation and problem sensing to help support and collaborate with the community.
-* Community - The community has the same ownership and authority as they currently do and is only passed over more control as and when it is ready from IOG.
+* Community - The community has the same authority as they currently do and is only passed over more control as and when it is ready from IOG.
 
 
 
@@ -88,11 +94,11 @@ Build, iterate and analyse
 
 
 
-**How is ownership and authority changing?**
+**How is stewardship and authority changing?**
 
 * Input Output Global - IOG retains all ownership and authority over changes to the Cardano blockchain as it does currently. Some of the moderation and support for the CIP process could be passed over to Cardano contributors if this is suitable as well as authority to moderate certain communication channels.
 * Cardano Contributors - Contributors help to support any CIP process suggestions and support where possible any improvements to the Cardano developer ecosystem or improvements to node operation. Contributors start to manage their own treasury to help speed up these development and support efforts and also start exploring how identity and reputation can be introduced to the developer and SPO community.
-* Community - The community receive increasing support and collaboration from Cardano contributors in the ecosystem but still have the increasing authority and ownership that IOG is passing over to the community.
+* Community - The community receive increasing support and collaboration from Cardano contributors in the ecosystem but still have the increasing authority and stewardship that IOG is passing over to the community.
 
 
 
@@ -134,11 +140,11 @@ Optimise, automate and scale
 
 
 
-**How is ownership and authority changing?**
+**How is stewardship and authority changing?**
 
 * Input Output Global - IOG start to handle passing over control of the parameters for Cardano over to the community and set up all the right incentives, mechanisms and knowledge for this to happen.
 * Cardano Contributors - Contributors support the creation and moderation of the incentives, mechanisms and knowledge required for the community to handle the parameters of the blockchain. Efforts are made to automate this process where possible to reduce the need for full time contributors to support these important processes.
-* Community - The community is able to participate and take authority and ownership of the parameters involved in the ecosystem and vote on any suggestions for improvements to the blockchain.
+* Community - The community is able to participate and take authority and stewardship of the parameters involved in the ecosystem and vote on any suggestions for improvements to the blockchain.
 
 
 
