@@ -1,8 +1,10 @@
 # Minimum Thresholds
 
-The budget allocation is \[**TBC**] which means funding capacity to support between 16 to 36 contributors based on the lower \[**TBC**] and upper \[**TBC**] [budget range guidelines](budget-ranges-fund-9.md). &#x20;
+The following assumes an ADA price of $0.50 per ADA. This will likely change in the future. In that event there may be more or less contributors who can be paid to support the ecosystem.
 
-Due to the higher number of developers we would estimate an average of $45,000 per contributor which would mean around 20 contributors would get funded.
+The budget allocation is 975,000 ADA which means funding capacity to support between 19 to 8  contributors based on the lower $25,000 (50,000 ADA) and upper $60,000 (120,000 ADA) [budget range guidelines](budget-ranges-fund-9.md). &#x20;
+
+Due to the higher number of developers we would estimate an average of $45,000 (90,000 ADA) per contributor which would mean around 9 contributors would get funded.
 
 After the thresholds are met based on the voting results the highest voted candidates would then be selected until the funding is allocated.
 
@@ -10,13 +12,13 @@ After the thresholds are met based on the voting results the highest voted candi
 
 ****
 
-**Development**: TBC
+**Development**: 5
 
-**Analysis:** TBC
+**Analysis:** 1
 
-**Coordination:** TBC
+**Coordination:** 3
 
-**Total**: TBC
+**Total**: 9
 
 
 
