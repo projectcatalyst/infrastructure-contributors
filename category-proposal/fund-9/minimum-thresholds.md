@@ -22,6 +22,10 @@ After the thresholds are met based on the voting results the highest voted candi
 
 
 
+If the ADA price becomes $1 instead of approximately $0.50 then these thresholds can multiplied by two if they aren't updated before starting the contributor proposal submission process.
+
+
+
 ### Quantity needed
 
 **Development**: High - The ecosystem has an increasing amount of complex core functionality required which warrants the need for a large number of developers.
