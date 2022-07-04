@@ -2,12 +2,12 @@
 
 * [Overview](README.md)
 
-## Contributor
+## Cardano Contributor
 
-* [Responsibilities](contributor/responsibilities.md)
-* [Roles](contributor/roles/README.md)
-  * [Budget Ranges](contributor/roles/budget-ranges.md)
-  * [Minimum Thresholds](contributor/roles/minimum-thresholds.md)
+* [Responsibilities](cardano-contributor/responsibilities.md)
+* [Roles](cardano-contributor/roles/README.md)
+  * [Budget Ranges](cardano-contributor/roles/budget-ranges.md)
+  * [Minimum Thresholds](cardano-contributor/roles/minimum-thresholds.md)
 
 ## Contributor Guides
 

@@ -10,11 +10,11 @@ The following is the information candidates should add to their proposal. An [ex
 
 ### Role
 
-Overview - Candidates are tasked with specifying their selected [role](../../contributor/roles/) and then providing any extra information they want about the selected role or other roles they believe they will be helpful in contributing towards.
+Overview - Candidates are tasked with specifying their selected [role](../../cardano-contributor/roles/) and then providing any extra information they want about the selected role or other roles they believe they will be helpful in contributing towards.
 
 
 
-**My main role** - Required. Candidates should specify the [role](../../contributor/roles/) and then also how they would add value.
+**My main role** - Required. Candidates should specify the [role](../../cardano-contributor/roles/) and then also how they would add value.
 
 **Roles I may also support** - Optional. Candidates can list out other roles, ordered by preference, that they would like to support with and information on how they intend to add value. Candidates should not feel that it is necessary to add any other roles and information if they would prefer to keep their full attention on their main role.
 
@@ -58,13 +58,13 @@ Overview - Candidates should provide some evidence to showcase their professiona
 
 ### **Contributions**
 
-Overview - Candidates can share information on any existing contributions they've made to the ecosystem under the [roles](../../contributor/roles/) that would be relevant. This helps community advisors and voters become more aware of how familiar they are with the ecosystem and to what extent they've already been contributing.
+Overview - Candidates can share information on any existing contributions they've made to the ecosystem under the [roles](../../cardano-contributor/roles/) that would be relevant. This helps community advisors and voters become more aware of how familiar they are with the ecosystem and to what extent they've already been contributing.
 
 
 
 **Catalyst roles** - Optional. What roles have you helped with in Catalyst? Have you been a community advisor, veteran community advisor, voter or proposer?
 
-**Development, Coordination, Analysis, QA & Auditing, Marketing, Product, Design** - Optional. For any of the [roles](../../contributor/roles/) candidates can add details on how they've contributed to the ecosystem with any supporting sources as evidence.
+**Development, Coordination, Analysis, QA & Auditing, Marketing, Product, Design** - Optional. For any of the [roles](../../cardano-contributor/roles/) candidates can add details on how they've contributed to the ecosystem with any supporting sources as evidence.
 
 
 
