@@ -36,7 +36,7 @@ The combination of each [role](roles/) mean the talent should cover the responsi
 
 ### Shared tasks
 
-Focus areas help to group similar skilled tasks together so people can be incentivised for the skill and type of work they will mostly be performing.
+Roles help to group similar skilled tasks together so people can be incentivised for the skill and type of work they will mostly be performing.
 
 More generally contributors are incentivised help to ensure the Cardano ecosystem is performing to its highest potential. The following is a list of impactful tasks to help achieve this and can be performed by any contributor regardless of their chosen role.
 
