@@ -4,16 +4,11 @@
 
 ## Cardano Contributor
 
+* [Focus Areas](cardano-contributor/focus-areas.md)
 * [Responsibilities](cardano-contributor/responsibilities.md)
 * [Roles](cardano-contributor/roles/README.md)
   * [Budget Ranges](cardano-contributor/roles/budget-ranges.md)
   * [Minimum Thresholds](cardano-contributor/roles/minimum-thresholds.md)
-
-## Contributor Guides
-
-* [Candidate Proposal Guide](contributor-guides/candidate-proposal-guide/README.md)
-  * [Example Candidate Proposal](contributor-guides/candidate-proposal-guide/example-candidate-proposal.md)
-* [Candidate Assessment Guide](contributor-guides/candidate-assessment-guide.md)
 
 ## Stewardship & Delegated Authority
 
@@ -22,6 +17,12 @@
 ## Treasury
 
 * [Cardano Contributor Treasury](treasury/cardano-contributor-treasury.md)
+
+## Contributor Guides
+
+* [Candidate Proposal Guide](contributor-guides/candidate-proposal-guide/README.md)
+  * [Example Candidate Proposal](contributor-guides/candidate-proposal-guide/example-candidate-proposal.md)
+* [Candidate Assessment Guide](contributor-guides/candidate-assessment-guide.md)
 
 ## Category Proposal
 
