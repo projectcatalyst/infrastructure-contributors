@@ -1,7 +1,5 @@
 ---
-description: >-
-  Details around responsibilities of a full time contributor with a breakdown of
-  the shared tasks
+description: Responsibilities for full time Cardano contributors
 ---
 
 # Responsibilities
