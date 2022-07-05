@@ -4,6 +4,8 @@ description: Overview of the Cardano Contributors
 
 # Overview
 
+![](.gitbook/assets/cardano-contributors-banner.png)
+
 Cardano contributors are community members who are paid by the Cardano treasury to work full time to help support, improve and maintain the Cardano ecosystem. Contributors choose a role they want to support and then if voted on by the community will get funded directly from the treasury.&#x20;
 
 Contributors help in a multitude of areas including working on infrastructure and tooling, supporting the community, improving processes or even supporting other projects in the ecosystem.&#x20;
