@@ -24,7 +24,7 @@ Cardano community members solving important problems are funded so they can cont
 
 Tracking success for this category will mean:
 
-* Number of contributions to support Catalyst - Code commits, events organised, coordination support between teams, documentation improvements etc
+* Number of contributions to support Cardano - Code commits, events organised, coordination support between teams, documentation improvements etc
 * Community support - Conversations with existing development projects and community members and any contributions that help support them\
 
 

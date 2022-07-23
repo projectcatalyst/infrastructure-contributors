@@ -26,7 +26,7 @@ Cardano community members solving important problems are funded so they can cont
 
 Tracking success for this category will mean:
 
-* Number of contributions to support Catalyst - Code commits, events organised, coordination support between teams, documentation improvements etc
+* Number of contributions to support Cardano - Code commits, events organised, coordination support between teams, documentation improvements etc
 * Community support - Conversations with existing development projects and community members and any contributions that help support them\
 
 
@@ -77,7 +77,7 @@ Minimum thresholds have been added to make sure the right amount of each skill s
 
 
 
-**Catalyst contributors minimum thresholds - Is there a minimum number of contributors for each role?**
+**Cardano contributors minimum thresholds - Is there a minimum number of contributors for each role?**
 
 Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed. The minimum thresholds for this fund can be found here - [https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-9/minimum-thresholds](https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-9/minimum-thresholds)
 
