@@ -68,14 +68,16 @@ The following are the initial roles for contributors to select from.
 
 **Tasks**
 
-* Analyse current development ecosystem and produce reports on progress made
-* Collect and aggregate community feedback about developer ecosystem
-* Write and maintain ecosystem documentation
-* Host meetings on problems, research or findings from analysis
-* Research and analyse on chain data to look at how the blockchain is being used
-* Research and analyse stake pool node operational data to report on performance
-* Create reports based off on chain data that helps push forward ideas for improvement
-* Research and report on other ecosystem developments that can benefit the Cardano ecosystem
+* Conduct ecosystem research and analysis to identify problems and opportunities for improvement
+* Collect, aggregate and analyse community feedback and overall sentiment about the ecosystem
+* Gather, analyse and report on statistics about ecosystem infrastructure usage, performance and outcomes
+* Create, maintain and improve ecosystem processes for gathering and measuring data, performance and community feedback
+* Conduct market wide research and report on similar ecosystems and their infrastructure or product usage, performance and outcomes
+* Write and maintain documentation about processes, research findings and ecosystem statistics
+* Provide support to community members in understanding the available ecosystem research, analysis and statistics
+* Coordinate efforts towards applying information around research findings, analysis and statistics to the maintenance and improvement of ecosystem systems and processes
+* Host discussions and meetings about ecosystem research findings, analysis and statistics
+* Provide feedback to proposals that could benefit from considering relevant ecosystem research, analysis and statistics
 
 
 
