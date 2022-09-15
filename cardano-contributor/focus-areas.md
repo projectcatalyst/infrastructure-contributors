@@ -30,6 +30,7 @@ Cardano contributors could spend their time supporting and improving the Cardano
 
 * **Identify and prioritise problems** - Contributors should gather problems from the developer community on what areas need improvement to make it easier to develop on Cardano. These problems can be prioritised based off the most important needs of the developer community.
 * **Build and maintain developer tools and software** - Cardano contributors can help with the development of scripts, libraries and SDKs that solve some of the issues faced by developers in the ecosystem. Much of this work would also be community initiatives that Cardano contributors can support in helping those teams to maintain the libraries and providing support for the community.
+* **Maintain and improve ecosystem infrastructure tools and software** - Cardano contributors can help with the creation or improvement of infrastructure that makes it easier to operate or build on Cardano. This could include layer two infrastructure such as rollups (e.g. zero knowledge rollups, optimistic rollups), sharding, sidechains and state channels. It can also include domain specific infrastructure that would benefit the wider ecosystem.
 
 
 
