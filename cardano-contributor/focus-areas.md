@@ -22,6 +22,7 @@ Cardano contributors could spend their time supporting and improving the Cardano
 ### **Stake pool node operation**
 
 * **Identify and prioritise problems** - Contributors should gather problems from the community about the issues faced when operating a stake pool and help in prioritising those problems to then explore how they can be resolved.
+* **Analyse on-chain blockchain data** - Research, analysis and reports can be made using the on-chain data on the Cardano blockchain in an attempt to identify patterns, trends, issues or potential areas for improvement.
 * **Build and maintain SPO tools and software** - Support the development of tools and software that make it easier to run a stake pool node or that make it easier to access Cardano data such as for oracle.s or data indexers.
 
 ****
