@@ -49,15 +49,16 @@ The following are the initial roles for contributors to select from.
 
 **Tasks**
 
-* Aggregate documentation and resources that make it easy for new developers joining the ecosystem or new stake pool operators
-* Support and promote open source tools, libraries and SDKs that the ecosystem can use
-* Help teams collaborate and reduce duplicated efforts on similar open source tools, libraries or SDKs
-* Aggregate resources for layer two infrastructure such as sidechains to highlight opportunities for existing stake pool operators to consider
-* Host events to bring together the development and stake pool communities to provide support and conduct problem sensing
-* Promote best practices and standards within the community
-* Manage an ecosystem calendar for events and community meet ups that help community members more easily find support or meet others in the ecosystem&#x20;
-* Support improvements of translations for open source project documentation
-* Provide technical support and guidance where possible
+* Communicate and collaborate with the community to identify areas where more support is needed or where the biggest problems exist
+* Communicate with anyone working in the ecosystem to identify and resolve pain points so contributors are able to work most effectively
+* Organise and manage an ecosystem calendar for ecosystem events, updates and meet ups
+* Support translations of resources and documentation and coordinate with global communities
+* Identify any skill gaps that exist for teams working in the ecosystem and help them where possible in finding suitable contributors for those skill sets
+* Write, maintain and aggregate documentation about how to understand and participate in the ecosystem
+* Provide community members support for understanding the Cardano ecosystem, development on Cardano and operating any ecosystem infrastructure
+* Review contribution efforts across the ecosystem and identify areas to encourage more collaboration and alignment or more application of standards and best practices
+* Host community discussions and events about relevant ecosystem topics
+* Review proposals, provide feedback and identify any opportunities for collaboration between projects in the ecosystem
 
 
 
