@@ -26,16 +26,20 @@ The following are the initial roles for contributors to select from.
 
 **Tasks**
 
-* Create and maintain scripts, tools, libraries, frameworks and utility code that help developers and node operators more easily build or operate infrastructure on Cardano
-* Interact with community developers and stake pool operators to determine what problems exist
-* Support the improvement and promotion of security best practices in the development ecosystem and for node operation&#x20;
-* Support existing open source projects with technical expertise and guidance
-* Collaborate with teams to bring alignment in the ecosystem and prevent duplicated efforts where possible
-* Help create, improve and promote good security standards and design patterns for projects to consider when developing on Cardano
-* Maintain and improve technical documentation and community resources
-* Host technical discussion meetings about the developer ecosystem and stake pool node operation to provide education and updates on ecosystem changes
-* Provide technical support to developers and stake pool operators
-* Provide technical feedback where necessary to technical proposals in the Catalyst process
+* Research, analyse and report on technical implementation approaches and best practices
+* Create, maintain and improve technical standards, security standards and design patterns that can be used in ecosystem infrastructure and applications
+* Define and iterate on technical requirements for ecosystem functionality
+* Research, plan and present software architecture approaches for ecosystem applications
+* Develop and maintain applications and features, tools, scripts, frameworks and utility code for the ecosystem
+* Test, debug and monitor application software changes
+* Track and analyse the performance of ecosystem applications
+* Support, improve and promote open source projects with technical expertise, guidance and development effort
+* Communicate with developers and the community to identify what infrastructure or development issues exist to then be considered and prioritised
+* Write and maintain technical documentation about ecosystem systems and processes
+* Provide support on how the Cardano ecosystem operates technically such as stake pool node operation and about any development tools, libraries and processes
+* Coordinate technical efforts across the ecosystem and where suitable attempt to align standards, technical implementations and processes
+* Host technical discussions and meetings about the Cardano developer ecosystem, stake pool node operation, infrastructure available in the ecosystem or for giving updates on ecosystem changes
+* Provide feedback to technical proposals on their development plans or implementations
 
 
 

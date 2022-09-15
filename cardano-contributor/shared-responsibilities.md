@@ -1,8 +1,8 @@
 ---
-description: Responsibilities for full time Cardano contributors
+description: Shared responsibilities for full time Cardano contributors
 ---
 
-# Responsibilities
+# Shared Responsibilities
 
 A cohort of Cardano contributors should be able to cover the following areas of responsibility to support the growth and evolution of the Cardano ecosystem.
 

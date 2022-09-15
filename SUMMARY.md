@@ -4,11 +4,11 @@
 
 ## Cardano Contributor
 
-* [Focus Areas](cardano-contributor/focus-areas.md)
-* [Responsibilities](cardano-contributor/responsibilities.md)
 * [Roles](cardano-contributor/roles/README.md)
   * [Budget Ranges](cardano-contributor/roles/budget-ranges.md)
   * [Minimum Thresholds](cardano-contributor/roles/minimum-thresholds.md)
+* [Focus Areas](cardano-contributor/focus-areas.md)
+* [Shared Responsibilities](cardano-contributor/shared-responsibilities.md)
 
 ## Stewardship & Delegated Authority
 

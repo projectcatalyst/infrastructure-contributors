@@ -30,7 +30,7 @@ Review how the contributor wants to get involved, how they want to support the e
 
 * Are there role details clear and well described? Has the candidate clearly detailed how they would be able to improve the ecosystem or support the community for that role?
 * Has the candidate provided examples of how they would like to contribute?
-* Do the role details and examples align well with the [responsibilities](../cardano-contributor/responsibilities.md) and [roles](../cardano-contributor/roles/)?
+* Do the role details and examples align well with the [responsibilities](../cardano-contributor/shared-responsibilities.md) and [roles](../cardano-contributor/roles/)?
 
 ****
 
