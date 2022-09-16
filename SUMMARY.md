@@ -21,7 +21,8 @@
 ## Contributor Guides
 
 * [Candidate Proposal Guide](contributor-guides/candidate-proposal-guide/README.md)
-  * [Example Candidate Proposal](contributor-guides/candidate-proposal-guide/example-candidate-proposal.md)
+  * [Example Proposal - Charles Babbage](contributor-guides/candidate-proposal-guide/example-proposal-charles-babbage.md)
+  * [Example Proposal - Leonardo Bonacci](contributor-guides/candidate-proposal-guide/example-proposal-leonardo-bonacci.md)
 * [Candidate Assessment Guide](contributor-guides/candidate-assessment-guide.md)
 
 ## Category Proposal
