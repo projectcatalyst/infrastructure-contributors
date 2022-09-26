@@ -20,7 +20,7 @@ _**Important note**_ - The budget ranges are provided as guidance. Contributor c
 
 ## Analysis
 
-Please refer to the [average salaries](https://catalyst-swarm.gitbook.io/catalyst-contributors/research/average-salaries) research conducted to get the data used for the budget ranges.
+Please refer to the [average salaries](https://docs.catalystcontributors.org/contributor-analysis/salary-research/average-salaries) research conducted to get the data used for the budget ranges.
 
 
 
