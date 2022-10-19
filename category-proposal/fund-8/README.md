@@ -38,7 +38,7 @@ Cardano Contributors is a community voted group of full time contributors in the
 
 
 
-To read the full background, analysis and current documentation for Cardano Contributors please visit - [https://catalyst-swarm.gitbook.io/cardano-contributors](https://catalyst-swarm.gitbook.io/cardano-contributors)
+To read the full background, analysis and current documentation for Cardano Contributors please visit - [https://docs.catalystcontributors.org/cardano-contributors/](https://docs.catalystcontributors.org/cardano-contributors/)
 
 
 
@@ -46,7 +46,7 @@ To read the full background, analysis and current documentation for Cardano Cont
 
 There is a benefit to consider other funding models rather than idea based funding. Strong ecosystems are built on good ideas that are well executed however the ecosystem also relies on impactful community contributors. The future of Catalyst funding could include funding community contributors as well as just ideas.
 
-The [analysis](broken-reference) behind how this category brief was constructed can be found here - [https://catalyst-swarm.gitbook.io/catalyst-contributors/analysis/contributor-structure](https://catalyst-swarm.gitbook.io/catalyst-contributors/analysis/contributor-structure)
+The analysis behind how this category brief was constructed can be found here - [https://docs.catalystcontributors.org/contributor-categorisation-analysis/](https://docs.catalystcontributors.org/contributor-categorisation-analysis/)
 
 It details the tradeoffs of funding types, the decision to use duration and salary caps and how the category total requested budget was decided.
 
@@ -55,25 +55,25 @@ It details the tradeoffs of funding types, the decision to use duration and sala
 **What roles can I apply for?**
 
 * **Roles** - Cardano Development, Cardano Coordination, Stake Pool Development, Stake Pool Coordination and Analysis
-* **Role details** - [https://catalyst-swarm.gitbook.io/cardano-contributors/contributor/roles](https://catalyst-swarm.gitbook.io/cardano-contributors/contributor/roles)
+* **Role details** - [https://docs.catalystcontributors.org/cardano-contributors/cardano-contributor/roles](https://docs.catalystcontributors.org/cardano-contributors/cardano-contributor/roles)
 
 
 
 **Cardano contributors candidate - What should be included in the proposal?**
 
-A guide for Cardano contributor candidate proposals can be found here - [https://catalyst-swarm.gitbook.io/cardano-contributors/contributor-guides/candidate-proposal-guide](https://catalyst-swarm.gitbook.io/cardano-contributors/contributor-guides/candidate-proposal-guide)
+A guide for Cardano contributor candidate proposals can be found here - [https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-proposal-guide](https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-proposal-guide)
 
 
 
 **Cardano contributors budget guidelines - What budget should a contributor request?**
 
-Guidance for Cardano contributors for setting their budget has been researched. Candidates are not forced to follow this guidance however the guidance can be found here - [https://catalyst-swarm.gitbook.io/cardano-contributors/proposals/fund-8/budget-ranges](https://catalyst-swarm.gitbook.io/cardano-contributors/proposals/fund-8/budget-ranges)
+Guidance for Cardano contributors for setting their budget has been researched. Candidates are not forced to follow this guidance however the guidance can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-8/budget-ranges-fund-8](https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-8/budget-ranges-fund-8)
 
 
 
 **Cardano contributors minimum thresholds - Is there a minimum number of contributors for each role?**
 
-Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed most. The minimum thresholds for fund 8 can be found here - [https://catalyst-swarm.gitbook.io/cardano-contributors/proposals/fund-8/minimum-thresholds](https://catalyst-swarm.gitbook.io/cardano-contributors/proposals/fund-8/minimum-thresholds)
+Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed most. The minimum thresholds for fund 8 can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-8/minimum-thresholds](https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-8/minimum-thresholds)
 
 ****
 
@@ -112,7 +112,7 @@ Minimum thresholds have been added to make sure there is enough skills across th
 
 **Community advisors - How candidates should be assessed**
 
-Community advisors should use the following guide when assessing a Cardano contributor candidate proposal - [https://catalyst-swarm.gitbook.io/cardano-contributors/contributor-guides/candidate-assessment-guide](https://catalyst-swarm.gitbook.io/cardano-contributors/contributor-guides/candidate-assessment-guide)
+Community advisors should use the following guide when assessing a Cardano contributor candidate proposal - [https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-assessment-guide](https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-assessment-guide)
 
 
 

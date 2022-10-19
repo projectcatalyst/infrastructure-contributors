@@ -48,7 +48,7 @@ To read the full background, analysis and current documentation for Cardano Cont
 
 There is a benefit to consider other funding models rather than idea based funding. Strong ecosystems are built on good ideas that are well executed. However the ecosystem also relies on impactful community contributors. The future of funding through Catalyst benefits from both funding ideas and full time contributors.
 
-The analysis behind how this contributor focussed category was created can be found here - [https://docs.catalystcontributors.org/contributor-analysis/](https://docs.catalystcontributors.org/contributor-analysis/)
+The analysis behind how this contributor focussed category was created can be found here - [https://docs.catalystcontributors.org/contributor-categorisation-analysis/](https://docs.catalystcontributors.org/contributor-categorisation-analysis/)
 
 
 
@@ -79,7 +79,7 @@ Minimum thresholds have been added to make sure the right amount of each skill s
 
 **Cardano contributors minimum thresholds - Is there a minimum number of contributors for each role?**
 
-Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed. The minimum thresholds for this fund can be found here - [https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-9/minimum-thresholds](https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-9/minimum-thresholds)
+Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed. The minimum thresholds for this fund can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-9/minimum-thresholds](https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-9/minimum-thresholds)
 
 
 
@@ -131,4 +131,4 @@ Community advisors should use the following guide when assessing a Cardano contr
 
 **Future improvements for full time contributors**
 
-There are a number of improvements that can be integrated into the model of full time contributors that help support different areas of the ecosystem. A list of ideas can be found here - [https://docs.catalystcontributors.org/contributor-analysis/contributor-analysis/contributor-future-improvements](https://docs.catalystcontributors.org/contributor-analysis/contributor-analysis/contributor-future-improvements)
+There are a number of improvements that can be integrated into the model of full time contributors that help support different areas of the ecosystem. A list of ideas can be found here - [https://docs.catalystcontributors.org/contributor-categorisation-analysis/contributor-funding-model/future-improvements](https://docs.catalystcontributors.org/contributor-categorisation-analysis/contributor-funding-model/future-improvements)
