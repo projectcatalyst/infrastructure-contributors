@@ -38,7 +38,7 @@ Infrastructure Contributors is a community voted group of full time contributors
 
 
 
-To read the full background, analysis and current documentation for Infrastructure Contributors please visit - [https://docs.catalystcontributors.org/cardano-contributors/](https://docs.catalystcontributors.org/cardano-contributors/)
+To read the full background, analysis and current documentation for Infrastructure Contributors please visit - [https://docs.catalystcontributors.org/infrastructure-contributors](https://docs.catalystcontributors.org/infrastructure-contributors)
 
 
 
@@ -55,25 +55,25 @@ It details the tradeoffs of funding types, the decision to use duration and sala
 **What roles can I apply for?**
 
 * **Roles** - Cardano Development, Cardano Coordination, Stake Pool Development, Stake Pool Coordination and Analysis
-* **Role details** - [https://docs.catalystcontributors.org/cardano-contributors/cardano-contributor/roles](https://docs.catalystcontributors.org/cardano-contributors/cardano-contributor/roles)
+* **Role details** - [https://docs.catalystcontributors.org/infrastructure-contributors/cardano-contributor/roles](https://docs.catalystcontributors.org/infrastructure-contributors/cardano-contributor/roles)
 
 
 
 **Cardano contributors candidate - What should be included in the proposal?**
 
-A guide for Infrastructure contributor candidate proposals can be found here - [https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-proposal-guide](https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-proposal-guide)
+A guide for Infrastructure contributor candidate proposals can be found here - [https://docs.catalystcontributors.org/infrastructure-contributors/contributor-guides/candidate-proposal-guide](https://docs.catalystcontributors.org/infrastructure-contributors/contributor-guides/candidate-proposal-guide)
 
 
 
 **Infrastructure contributors budget guidelines - What budget should a contributor request?**
 
-Guidance for Infrastructure contributors for setting their budget has been researched. Candidates are not forced to follow this guidance however the guidance can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-8/budget-ranges-fund-8](https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-8/budget-ranges-fund-8)
+Guidance for Infrastructure contributors for setting their budget has been researched. Candidates are not forced to follow this guidance however the guidance can be found here - [https://docs.catalystcontributors.org/infrastructure-contributors/category-proposal/fund-8/budget-ranges-fund-8](https://docs.catalystcontributors.org/infrastructure-contributors/category-proposal/fund-8/budget-ranges-fund-8)
 
 
 
 **Infrastructure contributors minimum thresholds - Is there a minimum number of contributors for each role?**
 
-Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed most. The minimum thresholds for fund 8 can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-8/minimum-thresholds](https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-8/minimum-thresholds)
+Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed most. The minimum thresholds for fund 8 can be found here - [https://docs.catalystcontributors.org/infrastructure-contributors/category-proposal/fund-8/minimum-thresholds](https://docs.catalystcontributors.org/infrastructure-contributors/category-proposal/fund-8/minimum-thresholds)
 
 ****
 
@@ -112,7 +112,7 @@ Minimum thresholds have been added to make sure there is enough skills across th
 
 **Community advisors - How candidates should be assessed**
 
-Community advisors should use the following guide when assessing a Cardano contributor candidate proposal - [https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-assessment-guide](https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-assessment-guide)
+Community advisors should use the following guide when assessing a Cardano contributor candidate proposal - [https://docs.catalystcontributors.org/infrastructure-contributors/contributor-guides/candidate-assessment-guide](https://docs.catalystcontributors.org/infrastructure-contributors/contributor-guides/candidate-assessment-guide)
 
 
 

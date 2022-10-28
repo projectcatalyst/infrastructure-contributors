@@ -40,7 +40,7 @@ Infrastructure Contributors is a group of community members voted on by the comm
 
 
 
-To read the full background, analysis and current documentation for Infrastructure Contributors please visit - [https://docs.catalystcontributors.org/cardano-contributors/](https://docs.catalystcontributors.org/cardano-contributors/)
+To read the full background, analysis and current documentation for Infrastructure Contributors please visit - [https://docs.catalystcontributors.org/infrastructure-contributors](https://docs.catalystcontributors.org/infrastructure-contributors)
 
 
 
@@ -55,31 +55,31 @@ The analysis behind how this contributor focussed category was created can be fo
 **What roles can I apply for?**
 
 * **Roles** - Development, Coordination and Analysis
-* **Role details** - [https://docs.catalystcontributors.org/cardano-contributors/contributor/roles](https://docs.catalystcontributors.org/cardanocontributors/contributor/roles)
+* **Role details** - [https://docs.catalystcontributors.org/infrastructure-contributors/contributor/roles](https://docs.catalystcontributors.org/infrastructure-contributors/contributor/roles)
 
 
 
-Infrastructure **contributors candidate - What should be included in the proposal?**
+**Infrastructure contributors candidate - What should be included in the proposal?**
 
-A guide for Infrastructure contributor candidate proposals can be found here - [https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-assessment-guide](https://docs.catalystcontributors.org/cardanocontributors/contributor-guides/candidate-assessment-guide)
-
-
-
-Infrastructure **contributors budget guidelines - What budget should a contributor request?**
-
-Budget range guidance for Infrastructure contributors were defined using research on the average salaries for different roles. Candidates are not forced to follow the guidance provided. The suggested budget ranges for Infrastructure contributors can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-9/budget-ranges](budget-ranges-fund-9.md)
+A guide for Infrastructure contributor candidate proposals can be found here - [https://docs.catalystcontributors.org/infrastructure-contributors/contributor-guides/candidate-assessment-guide](https://docs.catalystcontributors.org/infrastructure-contributors/contributor-guides/candidate-assessment-guide)
 
 
 
-**Infrastructure contributors minimum thresholds - Is there a minimum number of contributors for each role?**
+**Infrastructure contributors budget guidelines - What budget should a contributor request?**
 
-Minimum thresholds have been added to make sure the right amount of each skill set is selected in each cohort of contributors. The minimum thresholds for this fund can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-9/minimum-thresholds](minimum-thresholds.md)
+Budget range guidance for Infrastructure contributors were defined using research on the average salaries for different roles. Candidates are not forced to follow the guidance provided. The suggested budget ranges for Infrastructure contributors can be found here - [https://docs.catalystcontributors.org/infrastructure-contributors/category-proposal/fund-9/budget-ranges](https://docs.catalystcontributors.org/infrastructure-contributors/category-proposal/fund-9/budget-ranges)
 
 
 
 **Infrastructure contributors minimum thresholds - Is there a minimum number of contributors for each role?**
 
-Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed. The minimum thresholds for this fund can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-9/minimum-thresholds](https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-9/minimum-thresholds)
+Minimum thresholds have been added to make sure the right amount of each skill set is selected in each cohort of contributors. The minimum thresholds for this fund can be found here - [https://docs.catalystcontributors.org/infrastructure-contributors/category-proposal/fund-9/minimum-thresholds](https://docs.catalystcontributors.org/infrastructure-contributors/category-proposal/fund-9/minimum-thresholds)
+
+
+
+**Infrastructure contributors minimum thresholds - Is there a minimum number of contributors for each role?**
+
+Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed. The minimum thresholds for this fund can be found here - [https://docs.catalystcontributors.org/infrastructure-contributors/category-proposal/fund-9/minimum-thresholds](https://docs.catalystcontributors.org/infrastructure-contributors/category-proposal/fund-9/minimum-thresholds)
 
 
 
@@ -118,7 +118,7 @@ Minimum thresholds have been added to make sure there is enough skills across th
 
 **Community advisors - How candidates should be assessed**
 
-Community advisors should use the following guide when assessing a Infrastructure contributor candidate proposal - [https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-assessment-guide](https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-assessment-guide)
+Community advisors should use the following guide when assessing a Infrastructure contributor candidate proposal - [https://docs.catalystcontributors.org/infrastructure-contributors/contributor-guides/candidate-assessment-guide](https://docs.catalystcontributors.org/infrastructure-contributors/contributor-guides/candidate-assessment-guide)
 
 
 
