@@ -30,7 +30,7 @@ Review how the contributor wants to get involved, how they want to support the e
 
 * Are there role details clear and well described? Has the candidate clearly detailed how they would be able to improve the ecosystem or support the community for that role?
 * Has the candidate provided examples of how they would like to contribute?
-* Do the role details and examples align well with the [responsibilities](../cardano-contributor/shared-responsibilities.md) and [roles](../cardano-contributor/roles/)?
+* Do the role details and examples align well with the [responsibilities](../infrastructure-contributor/shared-responsibilities.md) and [roles](../infrastructure-contributor/roles/)?
 
 ****
 
@@ -57,7 +57,7 @@ Look at the candidates professional background, experience and skills relevant t
 * Does the candidate have a relevant professional background or experience?&#x20;
 * Does the candidate present enough evidence to support whether they have the right skills or experience to perform the selected role?
 * Are the links, references and any online profiles provided sufficient evidence towards the candidates background?
-* Is the budget they requested reasonable? Do they provide sufficient reasoning for their budget against what the [budget ranges](../cardano-contributor/roles/budget-ranges.md) guidance? If they deviated from the budget range is it reasonable and fair? Please check the latest [contributors challenge setting proposals](broken-reference) for the most recent budget range guidance. The budget reasoning does not require much depth providing the candidate has a budget in the guidance range and their professional background evidence supports the budget selected with sufficient evidence.
+* Is the budget they requested reasonable? Do they provide sufficient reasoning for their budget against what the [budget ranges](../infrastructure-contributor/roles/budget-ranges.md) guidance? If they deviated from the budget range is it reasonable and fair? Please check the latest [contributors challenge setting proposals](broken-reference) for the most recent budget range guidance. The budget reasoning does not require much depth providing the candidate has a budget in the guidance range and their professional background evidence supports the budget selected with sufficient evidence.
 
 
 
@@ -83,7 +83,7 @@ Review previous contributions towards the Cardano ecosystem or similar distribut
 
 * What evidence is provided for any existing contributions to the ecosystem? Are those contributions relevant to the role that the candidate is looking to contribute towards?
 * Is there any evidence provided towards the candidate participation in the Cardano ecosystem?
-* For when there are no Cardano contributions, are any other relevant contributions for other ecosystems or companies provided?&#x20;
+* For when there are no Infrastructure contributions, are any other relevant contributions for other ecosystems or companies provided?&#x20;
 * For future contributor rounds, have they added links to historical progress reports showcasing when they are a contributor previously?
 
 

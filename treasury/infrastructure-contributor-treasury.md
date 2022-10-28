@@ -4,9 +4,9 @@ description: >-
   by full time contributors along with the wider community
 ---
 
-# Cardano Contributor Treasury
+# Infrastructure Contributor Treasury
 
-The Cardano contributor treasury is a way to govern a portion of the overall Cardano treasury with the aim to help with more rapidly deploying funding to where it is needed most in the Cardano ecosystem.
+The Infrastructure contributor treasury is a way to govern a portion of the overall Cardano treasury with the aim to help with more rapidly deploying funding to where it is needed most in the Cardano ecosystem.
 
 Usage of funds from the contributor treasury have the same overall goal as the main treasury - producing the most impact possible for the ecosystem and community.
 
@@ -24,7 +24,7 @@ Solving issues around the speed of funding can help make projects more sustainab
 
 ### Treasury use cases
 
-The following examples are a starting point to consider and not exhaustive to all the possibilities. Initially the Cardano contributor treasury could delegate funding to any of the following:
+The following examples are a starting point to consider and not exhaustive to all the possibilities. Initially the Infrastructure contributor treasury could delegate funding to any of the following:
 
 * Contributors within the ecosystem for performing high impact roles and tasks.
 * Local and online events that help drive awareness, education or help bring the community together over given topics and concerns.
@@ -49,7 +49,7 @@ For the treasury to have capital to allocate it will need some forms of income. 
 
 * **Funded proposals** - Proposals can be created to request funds to fund the treasury.
 * **Stake pools** - Mission driven stake pools can be operated by stake pool contributors where the profit of those stake pools is allocated to the treasury.
-* **Contributor project support** - If full time Cardano contributors support other funded projects whilst being a contributor any payment for that work could be sent to the contributor treasury. This model works because the full time contributor is already being being paid a full time salary. An example could be a developer supporting another projects implementation for a short period as they have the technical expertise and it would provide a high impact to the ecosystem to support them.
+* **Contributor project support** - If full time Infrastructure contributors support other funded projects whilst being a contributor any payment for that work could be sent to the contributor treasury. This model works because the full time contributor is already being being paid a full time salary. An example could be a developer supporting another projects implementation for a short period as they have the technical expertise and it would provide a high impact to the ecosystem to support them.
 
 
 

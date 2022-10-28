@@ -2,13 +2,13 @@
 
 * [Overview](README.md)
 
-## Cardano Contributor
+## Infrastructure Contributor
 
-* [Roles](cardano-contributor/roles/README.md)
-  * [Budget Ranges](cardano-contributor/roles/budget-ranges.md)
-  * [Minimum Thresholds](cardano-contributor/roles/minimum-thresholds.md)
-* [Focus Areas](cardano-contributor/focus-areas.md)
-* [Shared Responsibilities](cardano-contributor/shared-responsibilities.md)
+* [Roles](infrastructure-contributor/roles/README.md)
+  * [Budget Ranges](infrastructure-contributor/roles/budget-ranges.md)
+  * [Minimum Thresholds](infrastructure-contributor/roles/minimum-thresholds.md)
+* [Focus Areas](infrastructure-contributor/focus-areas.md)
+* [Shared Responsibilities](infrastructure-contributor/shared-responsibilities.md)
 
 ## Stewardship & Delegated Authority
 
@@ -16,7 +16,7 @@
 
 ## Treasury
 
-* [Cardano Contributor Treasury](treasury/cardano-contributor-treasury.md)
+* [Infrastructure Contributor Treasury](treasury/infrastructure-contributor-treasury.md)
 
 ## Contributor Guides
 

@@ -1,12 +1,12 @@
 ---
-description: Cardano Contributors category proposal
+description: Infrastructure Contributors category proposal
 ---
 
 # Fund 8
 
 **Category Title**
 
-Cardano Contributors
+Infrastructure Contributors
 
 **Category question**
 
@@ -34,11 +34,11 @@ Part of tracking success for contributors will include improving the reporting a
 
 ### **Category brief**
 
-Cardano Contributors is a community voted group of full time contributors in the Cardano ecosystem that are funded to help support and drive the ecosystem forward. Contributor roles within the Cardano ecosystem currently include developers, coordinators and analysts that focus on the development ecosystem and stake poo operation. The contributors can be seen as a glue that helps bring the Cardano ecosystem together and maximise collaboration and outcomes within the community.
+Infrastructure Contributors is a community voted group of full time contributors in the Cardano ecosystem that are funded to help support and drive the ecosystem forward. Contributor roles within the Cardano ecosystem currently include developers, coordinators and analysts that focus on the development ecosystem and stake poo operation. The contributors can be seen as a glue that helps bring the Cardano ecosystem together and maximise collaboration and outcomes within the community.
 
 
 
-To read the full background, analysis and current documentation for Cardano Contributors please visit - [https://docs.catalystcontributors.org/cardano-contributors/](https://docs.catalystcontributors.org/cardano-contributors/)
+To read the full background, analysis and current documentation for Infrastructure Contributors please visit - [https://docs.catalystcontributors.org/cardano-contributors/](https://docs.catalystcontributors.org/cardano-contributors/)
 
 
 
@@ -61,17 +61,17 @@ It details the tradeoffs of funding types, the decision to use duration and sala
 
 **Cardano contributors candidate - What should be included in the proposal?**
 
-A guide for Cardano contributor candidate proposals can be found here - [https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-proposal-guide](https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-proposal-guide)
+A guide for Infrastructure contributor candidate proposals can be found here - [https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-proposal-guide](https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-proposal-guide)
 
 
 
-**Cardano contributors budget guidelines - What budget should a contributor request?**
+**Infrastructure contributors budget guidelines - What budget should a contributor request?**
 
-Guidance for Cardano contributors for setting their budget has been researched. Candidates are not forced to follow this guidance however the guidance can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-8/budget-ranges-fund-8](https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-8/budget-ranges-fund-8)
+Guidance for Infrastructure contributors for setting their budget has been researched. Candidates are not forced to follow this guidance however the guidance can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-8/budget-ranges-fund-8](https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-8/budget-ranges-fund-8)
 
 
 
-**Cardano contributors minimum thresholds - Is there a minimum number of contributors for each role?**
+**Infrastructure contributors minimum thresholds - Is there a minimum number of contributors for each role?**
 
 Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed most. The minimum thresholds for fund 8 can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-8/minimum-thresholds](https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-8/minimum-thresholds)
 

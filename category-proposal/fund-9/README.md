@@ -1,14 +1,14 @@
 ---
-description: Cardano Contributors category proposal
+description: Infrastructure Contributors category proposal
 ---
 
 # Fund 9
 
-![](../../.gitbook/assets/cardano-contributors-banner.png)
+<figure><img src="../../.gitbook/assets/infrastructure-contributors-banner.png" alt=""><figcaption></figcaption></figure>
 
 **Category Title**
 
-Cardano Contributors
+Infrastructure Contributors
 
 **Category question**
 
@@ -16,7 +16,7 @@ What full time contributors can be funded to help support and improve the Cardan
 
 **Why is it important?**
 
-Cardano needs full time contributors to help improve the development ecosystem in Cardano and stake pool ecosystem
+Cardano needs full time contributors to help improve the development ecosystem and infrastructure in Cardano ecosystem
 
 **How does success look like?**
 
@@ -36,11 +36,11 @@ Tracking success for contributors will include improving the reporting process s
 
 ### **Category brief**
 
-Cardano Contributors is a group of community members voted on by the community to help support and drive the Cardano ecosystem forward. Contributor roles within the Cardano ecosystem currently include developers, coordinators and analysts that focus on the improvement of the development ecosystem and ease of stake pool operation. The contributors can be seen as a glue that helps bring the Cardano ecosystem together and maximise collaboration and outcomes within the community.
+Infrastructure Contributors is a group of community members voted on by the community to help support and drive the Cardano ecosystem forward. Contributor roles within the Cardano ecosystem currently include developers, coordinators and analysts that focus on the improvement of the development ecosystem and ease of stake pool operation. The contributors can be seen as a glue that helps bring the Cardano ecosystem together and maximise collaboration and outcomes within the community.
 
 
 
-To read the full background, analysis and current documentation for Cardano Contributors please visit - [https://docs.catalystcontributors.org/cardano-contributors/](https://docs.catalystcontributors.org/cardano-contributors/)
+To read the full background, analysis and current documentation for Infrastructure Contributors please visit - [https://docs.catalystcontributors.org/cardano-contributors/](https://docs.catalystcontributors.org/cardano-contributors/)
 
 
 
@@ -59,25 +59,25 @@ The analysis behind how this contributor focussed category was created can be fo
 
 
 
-**Cardano contributors candidate - What should be included in the proposal?**
+Infrastructure **contributors candidate - What should be included in the proposal?**
 
-A guide for Cardano contributor candidate proposals can be found here - [https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-assessment-guide](https://docs.catalystcontributors.org/cardanocontributors/contributor-guides/candidate-assessment-guide)
-
-
-
-**Cardano contributors budget guidelines - What budget should a contributor request?**
-
-Budget range guidance for Cardano contributors were defined using research on the average salaries for different roles. Candidates are not forced to follow the guidance provided. The suggested budget ranges for Cardano contributors can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-9/budget-ranges](budget-ranges-fund-9.md)
+A guide for Infrastructure contributor candidate proposals can be found here - [https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-assessment-guide](https://docs.catalystcontributors.org/cardanocontributors/contributor-guides/candidate-assessment-guide)
 
 
 
-**Cardano contributors minimum thresholds - Is there a minimum number of contributors for each role?**
+Infrastructure **contributors budget guidelines - What budget should a contributor request?**
+
+Budget range guidance for Infrastructure contributors were defined using research on the average salaries for different roles. Candidates are not forced to follow the guidance provided. The suggested budget ranges for Infrastructure contributors can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-9/budget-ranges](budget-ranges-fund-9.md)
+
+
+
+**Infrastructure contributors minimum thresholds - Is there a minimum number of contributors for each role?**
 
 Minimum thresholds have been added to make sure the right amount of each skill set is selected in each cohort of contributors. The minimum thresholds for this fund can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-9/minimum-thresholds](minimum-thresholds.md)
 
 
 
-**Cardano contributors minimum thresholds - Is there a minimum number of contributors for each role?**
+**Infrastructure contributors minimum thresholds - Is there a minimum number of contributors for each role?**
 
 Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed. The minimum thresholds for this fund can be found here - [https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-9/minimum-thresholds](https://docs.catalystcontributors.org/cardano-contributors/category-proposal/fund-9/minimum-thresholds)
 
@@ -112,13 +112,13 @@ Minimum thresholds have been added to make sure there is enough skills across th
 **What candidates may be less suitable?**
 
 * Idea focussed - You have a great idea and want to work on it full time. This candidate is less suitable to become a contributor as contributors should not be tied to a single idea. Instead contributors are a collaborative force that helps pull ideas and teams together. This person can make a proposal for their idea if that's where they want to focus their time.
-* Wants full autonomy and independence - Candidates will need to regularly communicate and collaborate with many community members, ideas and projects regularly. If a candidate wants full autonomy and independence to solve problems then they are likely better suited to idea focussed proposals rather than becoming a Cardano contributor.
+* Wants full autonomy and independence - Candidates will need to regularly communicate and collaborate with many community members, ideas and projects regularly. If a candidate wants full autonomy and independence to solve problems then they are likely better suited to idea focussed proposals rather than becoming an Infrastructure contributor.
 
 
 
 **Community advisors - How candidates should be assessed**
 
-Community advisors should use the following guide when assessing a Cardano contributor candidate proposal - [https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-assessment-guide](https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-assessment-guide)
+Community advisors should use the following guide when assessing a Infrastructure contributor candidate proposal - [https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-assessment-guide](https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-assessment-guide)
 
 
 

@@ -6,7 +6,7 @@ description: >-
 
 # Focus Areas
 
-Cardano contributors could spend their time supporting and improving the Cardano ecosystem in the following focus areas. This list will not be exhaustive but gives a good idea of where contributors could spend their time.
+Infrastructure contributors could spend their time supporting and improving the Cardano ecosystem in the following focus areas. This list will not be exhaustive but gives a good idea of where contributors could spend their time.
 
 
 
@@ -30,15 +30,15 @@ Cardano contributors could spend their time supporting and improving the Cardano
 ### **Development ecosystem**
 
 * **Identify and prioritise problems** - Contributors should gather problems from the developer community on what areas need improvement to make it easier to develop on Cardano. These problems can be prioritised based off the most important needs of the developer community.
-* **Build and maintain developer tools and software** - Cardano contributors can help with the development of scripts, libraries and SDKs that solve some of the issues faced by developers in the ecosystem. Much of this work would also be community initiatives that Cardano contributors can support in helping those teams to maintain the libraries and providing support for the community.
-* **Maintain and improve ecosystem infrastructure tools and software** - Cardano contributors can help with the creation or improvement of infrastructure that makes it easier to operate or build on Cardano. This could include layer two infrastructure such as rollups (e.g. zero knowledge rollups, optimistic rollups), sharding, sidechains and state channels. It can also include domain specific infrastructure that would benefit the wider ecosystem.
+* **Build and maintain developer tools and software** - Infrastructure contributors can help with the development of scripts, libraries and SDKs that solve some of the issues faced by developers in the ecosystem. Much of this work would also be community initiatives that Cardano contributors can support in helping those teams to maintain the libraries and providing support for the community.
+* **Maintain and improve ecosystem infrastructure tools and software** - Infrastructure contributors can help with the creation or improvement of infrastructure that makes it easier to operate or build on Cardano. This could include layer two infrastructure such as rollups (e.g. zero knowledge rollups, optimistic rollups), sharding, sidechains and state channels. It can also include domain specific infrastructure that would benefit the wider ecosystem.
 
 
 
 ### **Resources**
 
 * **Documentation** - Create and maintain documentation and education resources that help the community more easily understand the Cardano ecosystem and the tools and libraries available to projects and developers and for running a stake pool node.
-* **Education resources** - Creation and aggregation of videos, podcasts or educational materials made by the community or Cardano contributors that help new developers or stake pool operators learn about the ecosystem.
+* **Education resources** - Creation and aggregation of videos, podcasts or educational materials made by the community or Infrastructure contributors that help new developers or stake pool operators learn about the ecosystem.
 * **Translation support** - Translation support on key resources for the Cardano ecosystem that help to increase the ease of access for international community members and developers
 
 

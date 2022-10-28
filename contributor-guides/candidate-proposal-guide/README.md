@@ -10,11 +10,11 @@ The following is the information candidates should add to their proposal. Check 
 
 ### Role
 
-Candidates are tasked with specifying their selected [role](../../cardano-contributor/roles/) and then providing any extra information they want about the selected role or other roles they believe they will be helpful in contributing towards.
+Candidates are tasked with specifying their selected [role](../../infrastructure-contributor/roles/) and then providing any extra information they want about the selected role or other roles they believe they will be helpful in contributing towards.
 
 
 
-**Primary role** - Required. Specify the [role](../../cardano-contributor/roles/) which you intend to spend at least half your time supporting whilst being a contributor.
+**Primary role** - Required. Specify the [role](../../infrastructure-contributor/roles/) which you intend to spend at least half your time supporting whilst being a contributor.
 
 **Preferred role responsibilities** - Required. For each of responsibilities list under the roles pick which ones would be relevant to what you would intend to spend your time on and list those same responsibilities under the role headings. Check the examples for [Charles Babbage](example-proposal-charles-babbage.md) and [Leonardo Bonacci](example-proposal-leonardo-bonacci.md) for guidance.
 
@@ -62,11 +62,11 @@ Candidates should provide some evidence to showcase their professional backgroun
 
 ### **Contributions & Participation**
 
-Candidates can share information on any existing contributions they've made to the ecosystem under the [roles](../../cardano-contributor/roles/) that would be relevant. This helps community advisors and voters become more aware of how familiar they are with the ecosystem and to what extent they've already been contributing.
+Candidates can share information on any existing contributions they've made to the ecosystem under the [roles](../../infrastructure-contributor/roles/) that would be relevant. This helps community advisors and voters become more aware of how familiar they are with the ecosystem and to what extent they've already been contributing.
 
 
 
-**Ecosystem contributions** - Optional. Under headings of any of the [roles](../../cardano-contributor/roles/) add any contributions you have made that are relevant to those roles. Add links to provide evidence where possible. Check the [Charles Babbage](example-proposal-charles-babbage.md) and [Leonardo Bonacci](example-proposal-leonardo-bonacci.md) examples for guidance.
+**Ecosystem contributions** - Optional. Under headings of any of the [roles](../../infrastructure-contributor/roles/) add any contributions you have made that are relevant to those roles. Add links to provide evidence where possible. Check the [Charles Babbage](example-proposal-charles-babbage.md) and [Leonardo Bonacci](example-proposal-leonardo-bonacci.md) examples for guidance.
 
 **Ecosystem participation** - Optional. What roles have you helped with in Catalyst? Are you or have you been a stake pool operator, proposal assessor veteran proposal assessor, voter or proposer?
 
